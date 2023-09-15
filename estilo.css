@@ -42,6 +42,7 @@
 }
 
 #topo{
+    width: auto;
     display: flex;
     justify-content: space-around;
     background-color: #5ADDD1;
